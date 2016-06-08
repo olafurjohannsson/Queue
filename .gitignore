@@ -2,7 +2,7 @@
 *.o
 *.a
 *.so
-
+*.exe
 # Folders
 _obj
 _test
